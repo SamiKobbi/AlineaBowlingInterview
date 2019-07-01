@@ -33,7 +33,7 @@ public class Game {
 		}
 		if (gameFrames[9].substring(1, 2).equals("/")) {
 			String nbQuilleFinalPremierLanceeSuppString = gameFrames[9].substring(2, 3);
-			nbQuilleFinalPremierLanceeSupp = Integer.parseInt(nbQuilleFinalPremierLanceeSuppString);
+			nbQuilleFinalPremierLanceeSupp = nbQuilleFinalPremierLanceeSuppString.equals("X") ? 10 : Integer.parseInt(nbQuilleFinalPremierLanceeSuppString);
 
 		}
 
