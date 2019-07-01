@@ -1,6 +1,6 @@
-package com.Alinea.Interview.Bowling;
+package com.interview.alinea.katabowling;
 
-import com.Alinea.Interview.Bowling.Models.Game;
+import com.interview.alinea.katabowling.models.Game;
 
 /**
  * Hello world!

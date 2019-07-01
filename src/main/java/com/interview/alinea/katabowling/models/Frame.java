@@ -1,4 +1,4 @@
-package com.Alinea.Interview.Bowling.Models;
+package com.interview.alinea.katabowling.models;
 
 public class Frame {
 	private int nbQuillePremierLancer;

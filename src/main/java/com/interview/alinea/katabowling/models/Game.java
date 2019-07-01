@@ -1,4 +1,4 @@
-package com.Alinea.Interview.Bowling.Models;
+package com.interview.alinea.katabowling.models;
 
 public class Game {
 	private Frame[] frames;

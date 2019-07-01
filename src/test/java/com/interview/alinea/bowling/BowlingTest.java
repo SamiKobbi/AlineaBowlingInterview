@@ -1,10 +1,10 @@
-package com.Alinea.Interview.Bowling;
+package com.interview.alinea.bowling;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import com.Alinea.Interview.Bowling.Models.Game;
+import com.interview.alinea.katabowling.models.Game;
 
 public class BowlingTest {
 	@Test
